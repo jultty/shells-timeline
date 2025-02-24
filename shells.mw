@@ -1,0 +1,61 @@
+1963: RUNCOM
+http://www.multicians.org/shell.html
+
+1965: Multics shell
+Precise date uncertain
+https://www.multicians.org/shell.html
+https://www.multicians.org/trac-and-shell.html
+
+1971-11: Thompson shell (sh)
+Date refers to the first UNIX release
+
+1977-07-01: PWB shell (sh)
+Date refers to the first release of PWB/UNIX
+
+1978: C shell (csh)
+Date refers to the release of 2BSD
+
+1979: Bourne shell (sh)
+Date refers to the release of UNIX V7
+
+1983-10-04: TENEX C Shell (tcsh)
+https://www.usenetarchives.com/view.php?id=net.sources&mid=PDE4ODVAaHBsYWJzLlVVQ1A%2B
+
+1983-06-09: KornShell (ksh)
+Date refers to the Toronto USENIX Conference Schedule publication
+https://www.usenetarchives.com/view.php?id=net.usenix&mid=PDQzMkBoY3IuVVVDUD4
+https://web.archive.org/web/20231202230028/https://groups.google.com/g/net.flame/c/B-5h0U-l5Nk/m/MPVatoWAhk8J
+
+1989-05-30: Almquist shell (ash)
+https://www.usenetarchives.com/view.php?id=comp.sources.unix&mid=PDE3NDVAZmlnLmJibi5jb20%2B
+
+1989-06-08: Bourne-Again Shell (bash)
+https://www.usenetarchives.com/view.php?id=gnu.announce&mid=PDg5MDYwODAyMzUuQUEwMTk4M0B3aGVhdC1jaGV4LmFpLm1pdC5lZHU%2B
+
+1990-12-14: Z shell (zsh)
+https://www.usenetarchives.com/view.php?id=alt.sources&mid=PDQ3NDJAaWR1bm5vLlByaW5jZXRvbi5FRFU%2B
+
+1992: Plan 9 Rc (rc)
+Date refers to the release of Plan 9 1st edition. 1989 comes up often but no reference was found on it
+
+1995-06-16: Public Domain KornShell (pdksh)
+Precise date uncertain
+https://web.archive.org/web/20160701123755/http://web.cs.mun.ca/~michael/pdksh/ChangeLog
+
+1997-06-19: Debian Almquist shell (dash)
+https://metadata.ftp-master.debian.org/changelogs//main/d/dash/dash_0.5.12-2_changelog
+
+2004-04-07: MirBSD Korn Shell (mksh)
+Precise date uncertain
+https://github.com/MirBSD/mksh/releases/tag/mirbsdksh-1_3
+
+2005: friendly interactive shell (fish)
+Precise date uncertain
+https://github.com/fish-shell/fish-shell/releases/tag/1.16.0
+
+2019-08-23: Nushell (nu)
+https://github.com/nushell/nushell/releases/tag/0.2.0
+
+2020-10-30: Portable OpenBSD KornShell (oksh)
+Precise date uncertain
+https://github.com/ibara/oksh/releases/tag/oksh-6.8
